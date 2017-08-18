@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/danielleklaasen/Desktop/AmagerAR/platforms/android/build/intermediates/exploded-aar/wikitudesdk/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="943826ba38df25fea857508300b31bd1f20c9301">
+        <dex dex="/Users/danielleklaasen/Desktop/AmagerAR/platforms/android/build/intermediates/pre-dexed/release/intermediates-exploded-aar-wikitudesdk_d21be889e1c3315f06f521d29b5d60058e07141a.jar" />
+    </item>
+    <item
+        jar="/Users/danielleklaasen/Desktop/AmagerAR/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="60e6b4437f939919172d1537ebf0eb778febbf22">
+        <dex dex="/Users/danielleklaasen/Desktop/AmagerAR/platforms/android/build/intermediates/pre-dexed/release/CordovaLib-unspecified-release_dc5406167dc60c77a5e9285611456b0aa3575b00.jar" />
+    </item>
+
+</items>
